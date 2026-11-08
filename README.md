@@ -1,3 +1,6 @@
+<img width="552" height="305" alt="image" src="https://github.com/user-attachments/assets/a79e2fd6-a924-4169-b0f6-2dd068c0ffb4" />
+
+
 XELI ON DESK  -  beta v0.3
 ==========================
 
