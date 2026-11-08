@@ -19,3 +19,29 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+XELI CHARACTER AND ARTWORK - NOT COVERED BY THE MIT LICENSE
+
+The MIT License above applies to the source code only.
+
+The Xeli character, his name, his design and all of his artwork are
+Copyright (c) 2026 MatsterKaster93. All rights reserved.
+
+This includes:
+  - the Xeli sprite and color palettes (the BASE, PAL, SKINS, ARM_UP,
+    SANTA_HAT and related pixel data in xeli.pyw),
+  - the animation frames generated from that sprite,
+  - the program icon (xeli.ico).
+
+You may not use, copy, modify, redistribute or sell the Xeli character or
+artwork, or use them in other projects, without written permission from
+MatsterKaster93.
+
+You are welcome to reuse the code to make your own desktop pet: replace the
+sprite data and icon with your own original artwork and name.
+
+Sharing the official, unmodified Xeli on Desk release (for example linking to
+or reposting the download with credit) and making non-commercial fan art of
+Xeli are allowed.
